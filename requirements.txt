@@ -1,1 +1,5 @@
-Flask==1.0.2
+pandas==0.25.1
+Flask==1.1.1
+flasgger==0.9.4
+Keras==2.4.3
+numpy==1.17.2
